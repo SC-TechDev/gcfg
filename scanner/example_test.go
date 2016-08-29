@@ -9,8 +9,8 @@ import (
 )
 
 import (
-	"github.com/scalingdata/gcfg/scanner"
-	"github.com/scalingdata/gcfg/token"
+	"github.com/SC-TechDev/gcfg/scanner"
+	"github.com/SC-TechDev/gcfg/token"
 )
 
 func ExampleScanner_Scan() {
